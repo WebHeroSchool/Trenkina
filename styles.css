@@ -1,8 +1,8 @@
 .title {
 
  font-family: Roboto;
-
 }
+
 body {
   margin: 0;
   border: dashed 1px red;
@@ -19,6 +19,7 @@ border: dashed 1px red;
 margin-right: 63%;
 padding: 40px 0;
 }
+
 
 .header {
 display: flex;
