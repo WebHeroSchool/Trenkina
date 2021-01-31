@@ -55,6 +55,11 @@ height: 28px;
 border: dashed 1px red;
 }
 
+.logo__circle_color_blue {
+left: 8px;
+top: 56%;
+}
+
 .logo__circle_color_dark-blue {
 background: #0056EC;
 border-radius: 50%;
