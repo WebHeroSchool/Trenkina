@@ -57,10 +57,12 @@ border: dashed 1px red;
 
 .logo__circle_color_dark-blue {
 background: #0056EC;
+border-radius: 50%;
 }
 
 .logo__circle_color_blue {
 left: 8px;
 top: 56%;
 background: #C8DBFB;
+border-radius: 50%;
 }
