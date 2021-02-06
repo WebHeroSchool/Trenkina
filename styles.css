@@ -50,18 +50,19 @@ font: bold 24px/31px pt_serif, arial, helvetica, sans-serif;
 }
 
 .logo__circle {
-position: absolute;
 width: 28px;
 height: 28px;
 border: dashed 1px red;
 }
 
 .logo__circle_color_blue {
+position: relative
 left: 8px;
 top: 56%;
 }
 
 .logo__circle_color_dark-blue {
+position: absolute
 background: #0056EC;
 border-radius: 50%;
 }
@@ -71,4 +72,5 @@ left: 8px;
 top: 56%;
 background: #C8DBFB;
 border-radius: 50%;
+transform: translateY(-50%);
 }
