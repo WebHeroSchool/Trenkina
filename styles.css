@@ -59,6 +59,7 @@ border: dashed 1px red;
 position: relative
 left: 8px;
 top: 56%;
+opacity: 0.7;
 }
 
 .logo__circle_color_dark-blue {
